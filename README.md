@@ -1,0 +1,2 @@
+# Deep-Learning-Project-AI-Based-Electricity-Demand-Forecasting-for-Delhi
+Delhi's power demand fluctuates due to seasonal changes, daily temperature variations, and uneven urban growth, creating challenges in balancing power generation with demand. This project aims to develop an AI-based model to accurately forecast electricity demand, factoring in weather conditions, holidays, and urban development.
